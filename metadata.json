@@ -1,0 +1,6 @@
+{
+  "name": "倒産セキュリティクイズ",
+  "description": "1つでも間違えたら即倒産！制限時間100秒で企業の命運を握る4択セキュリティクイズゲーム。被害総額はミス数に応じて跳ね上がる！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
